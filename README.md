@@ -24,7 +24,7 @@
 
 
 
-
+# Output :
 
 ![Screenshot (178)](https://github.com/user-attachments/assets/4ca2388b-6801-4c7f-b534-d33d7d5e1c22)
 
